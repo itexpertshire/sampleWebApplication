@@ -3,4 +3,4 @@ from app import app
 @app.route('/')
 @app.route('/index')
 def index():
-    return "Hello, World! New Page"
+    return "Hello, World! New Page1"
